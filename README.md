@@ -87,7 +87,7 @@ This repository serves as a learning resource, demonstrating the application of 
 **Kashif Alam** – Robotics Engineer & Programmer  
 - GitHub: [KashifAlam407](https://github.com/KashifAlam407)
 - YouTube: [@kashifalam](https://www.youtube.com/@electroboticsai)
-- Instagram: [@kashifalam407](https://instagram.com/kashifalam0407)
+- Instagram: [@kashifalam0407](https://instagram.com/kashifalam0407)
 
 ---
 
